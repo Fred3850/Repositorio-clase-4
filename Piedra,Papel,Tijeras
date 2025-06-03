@@ -1,17 +1,22 @@
 Main 
-String secreto = Random()
-String = repuestaJugador
-bool = FALSO
-int rondas = 3
-int marcadorCompu =
-int marcadorJugador =
+  String[] = repuestaJugador
+  String jugada = 
+  bool gano
+  int rondas, ganaPC, ganaHum
 
-for (rondas = 1; ++rondas; rondas = 3)
 
-"Ingresa tu respuesta"
-lee respuestaJugador
+  for (rondas==0,rondas==2,++rondas)
+  
+  "Escoje pierdra papel o tijeras"
+  lee respuestaJugador
+  jugadaPC = random(0,2) -> String[]
 
-Random
+  if(jugada == jugadaPC)
+  mostrar "empate"
+  else 
+  
+   if respuestaJugador == 
+  
 
 
 FinMain
