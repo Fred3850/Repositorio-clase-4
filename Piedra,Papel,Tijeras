@@ -1,0 +1,21 @@
+Main 
+String secreto = Random()
+String = repuestaJugador
+bool = FALSO
+int rondas = 3
+int marcadorCompu =
+int marcadorJugador =
+
+for (rondas = 1; ++rondas; rondas = 3)
+
+"Ingresa tu respuesta"
+lee respuestaJugador
+
+Random
+
+
+FinMain
+
+
+
+
